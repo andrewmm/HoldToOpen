@@ -1,1 +1,5 @@
 obj
+*.deb
+.gitignore~
+.theos
+_
