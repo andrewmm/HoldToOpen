@@ -1,5 +1,4 @@
 #import "MobileSafariHeader.h"
-#import "ChromeHeader.h"
 
 %group MobileSafari
 
